@@ -2,6 +2,7 @@
 
 | 时间 | 操作 | 贡献者 |
 | --- | --- | --- |
+| 2026.9.14 | 修复 CMS 文章导航失配：侧栏/导航栏改为构建时自动生成，CMS 新增文章自动入栏；修复 10 处死链 404，补录台灣新生專區、预约亲友入校、自动贩卖机等页面入口；移除学号5-6位、科研常用网站、培养方案条目；迁移错位图片资源 | ZCode |
 | 2026.8.9 | 修复了一些问题<br>src/gzh.md, src/newstudent.md, src/websites.md, src/words.md, src/专题/ed06289b8b6f.md, src/专题/jiaoxuelou.md, src/专题/junxun.md, src/专题/peiyangfangan.md, src/专题/shitang.md, src/专题/tice.md, src/专题/time.md, src/专题/xuanke.md  | 笃实42青凌 |
 | 2024.9.7 | 新增校内生活设施 书店 | 电41花青 |
 | 2024.9.6 | 更新校内生活理发 删除C楼理发店 | 自76张广昱 |
