@@ -30,7 +30,7 @@ const rootCurated: CuratedEntry[] = [
   { rel: "README.md", text: "🍺THU手册", link: "README.md" },
   { rel: "words.md", text: "📕新生词典" },
   { rel: "newstudent.md", text: "😀新生指南" },
-  { rel: "f06fa5f6479a.md", text: "新生常见问题" },
+  { rel: "f06fa5f6479a.md", text: "❓新生常见问题" },
   { rel: "jiqiao.md", text: "😋校园技巧" },
   { rel: "phones.md", text: "☎️常用电话" },
   { rel: "websites.md", text: "🌐常用网址" },
