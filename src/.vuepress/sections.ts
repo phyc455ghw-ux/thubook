@@ -30,6 +30,7 @@ const rootCurated: CuratedEntry[] = [
   { rel: "README.md", text: "🍺THU手册", link: "README.md" },
   { rel: "words.md", text: "📕新生词典" },
   { rel: "newstudent.md", text: "😀新生指南" },
+  { rel: "f06fa5f6479a.md", text: "新生常见问题" },
   { rel: "jiqiao.md", text: "😋校园技巧" },
   { rel: "phones.md", text: "☎️常用电话" },
   { rel: "websites.md", text: "🌐常用网址" },
@@ -40,7 +41,6 @@ const rootCurated: CuratedEntry[] = [
 ];
 
 const topicCurated: CuratedEntry[] = [
-  { rel: "f06fa5f6479a.md", text: "新生常见问题" },
   { rel: "专题/xiaoli.md", text: "清华校历" },
   { rel: "专题/time.md", text: "上课时间" },
   { rel: "专题/thugpa.md", text: "清华GPA" },
